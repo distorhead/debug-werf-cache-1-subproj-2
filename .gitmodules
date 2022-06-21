@@ -1,0 +1,3 @@
+[submodule "subproj-3"]
+	path = subproj-3
+	url = git@github.com:distorhead/debug-werf-cache-1-subproj-3.git
